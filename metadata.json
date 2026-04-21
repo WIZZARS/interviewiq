@@ -1,0 +1,8 @@
+{
+  "name": "Virtual Mock Interview System",
+  "description": "An advanced virtual mock interview system that provides real-time feedback on your communication, body language, and confidence using the Gemini Live API. It captures your video and audio to generate a comprehensive performance report with actionable tips for improvement.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
